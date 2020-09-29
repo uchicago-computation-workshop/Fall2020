@@ -6,7 +6,7 @@
 
 The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend this week's event. We welcome the new class of MACSS students, greet our returning second year's, and invite all faculty and guests to mingle with our students, discuss big ideas, and celebrate the first Computation Workshop of the academic year. 
 
-### Thursday, 10/01/2019 
+### Thursday, 10/01/2020 
 ### 11:00am-12:20pm 
 
 Via Zoom
