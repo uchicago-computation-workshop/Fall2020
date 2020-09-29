@@ -7,7 +7,7 @@
 The [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) at the University of Chicago cordially invites you to attend this week's event. We welcome the new class of MACSS students, greet our returning second year's, and invite all faculty and guests to mingle with our students, discuss big ideas, and celebrate the first Computation Workshop of the academic year. 
 
 ### Thursday, 10/01/2020 
-### 11:00am-12:20pm 
+### 11:20am-12:40pm 
 
 Via Zoom
 
@@ -27,7 +27,7 @@ Our faculty member, John Clindaneil, will present his work during our next works
 
 ---
 
-The 2020-2021 [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) meets on Thursdays from 11 to 12:20 p.m. The workshop will be held virtually on Zoom. All interested faculty and graduate students are welcome.</p>
+The 2020-2021 [Computation Workshop](https://macss.uchicago.edu/content/computation-workshop) meets on Thursdays from 11:20am to 12:40 p.m. The workshop will be held virtually on Zoom. All interested faculty and graduate students are welcome.</p>
 
 
 

@@ -1,5 +1,5 @@
 # Fall 2020
-### Thursdays, 11:00am-12:20pm
+### Thursdays, 11:20am-12:40pm
 
 <br>
 
