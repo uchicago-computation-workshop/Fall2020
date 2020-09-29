@@ -21,7 +21,7 @@ Students in the Masters of Computational Social Science program are expected to 
 
 **Registration**: The meeting will be held virtually on Zoom. For security purposes, please register through this [link]( https://uchicago.zoom.us/meeting/register/tJcocu2rqz0tHdwcMfhObnl-5uuyvPRM6Z11) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 
-Our faculty member, Jon Clindaneil, will present his work during our next workshop.
+Our faculty member, Jon Clindaniel, will present his work during our next workshop.
 
 
 
