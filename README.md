@@ -9,6 +9,6 @@
 
 
 
-### Oct 8th - John Clindaneil
+### Oct 8th - Jon Clindaneil
 
 <div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screenshot%202019-09-23%2010.58.34.png?itok=ULCExQwo" width="238" height="238"></div>
