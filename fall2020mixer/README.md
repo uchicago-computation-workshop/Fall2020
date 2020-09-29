@@ -14,14 +14,16 @@ Via Zoom
 ---
 Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href="https://github.com/uchicago-computation-workshop/Fall2020/issues/1"> issues page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository on GitHub.</a></p>
 
-**Before the Fall Welcome Mixer**, each of you will:
+**Before the Fall Welcome Mixer**, by Wednesday, September 30 @ 11:59pm each of you will:
 
-- Think about whom and what you'd like to see at our workshop, and suggest (each proposal as a response to the issue page) one speaker or paper.
+- Think about whom and what you'd like to see at our workshop over the coming academic year, and suggest at least one speaker or one paper, and an explanation of why that speaker or *some speaker* from that paper would be desirable visitors at the University of Chicago. You may submit more than one speaker or paper, but make sure to add each as a separate response to the issues page (e.g., so that when people upvote it...see below, we will know what they are upvoting!) 
 - Then, upvote (“thumbs up”) **at least 5** proposals from other people.
+
+At the Mixer we will discuss these suggestions, introduce you to the format and present an analysis of what we do and how we do it!
 
 **Registration**: The meeting will be held virtually on Zoom. For security purposes, please register through this [link]( https://uchicago.zoom.us/meeting/register/tJcocu2rqz0tHdwcMfhObnl-5uuyvPRM6Z11) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 
-Our faculty member, Jon Clindaniel, will present his work during our next workshop.
+Our own MCSS faculty member, Jon Clindaniel, will present his work during the following workshop on October 8.
 
 
 
