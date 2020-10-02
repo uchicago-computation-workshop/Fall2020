@@ -1,16 +1,3 @@
----
-output:
-  html_document:
-    highlight: null
-    css: style.css
-    self_contained: no
-    keep_md: true
----
-
-
-
-
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -56,7 +43,7 @@ output:
 <p class=footertext2>
 
 **Jon Clindaniel** is an Assistant Instructional Professor in the Masters in Computational Social Science program and a computational anthropologist, focused on solving difficult archaeological problems using data science techniques. Jon's research centers around applying data science techniques to solve difficult anthropological/archaeological problems and he is passionate about teaching these methodologies to students.
- 
+
 </p>
 
 <br>
