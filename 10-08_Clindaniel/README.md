@@ -21,7 +21,9 @@
   <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-08_Clindaniel> The Inka Writing System: An Exploration of Khipu Sign Conventions </a>
 </h2>
 </div>
+
 <br>
+
 **Summary:** Inka khipus were unique pre-Columbian, Andean semiotic technologies that used three-dimensional signs -- primarily knots, cords, and colors -- to record everything from accounting records to historical narratives. While numerical Inka khipu signs have been deciphered since the 1920s, scholars still have not deciphered any non-numerical Inka khipu signs, nor have they empirically demonstrated how such signs would have worked -- whether as the signs of a phonetic writing system, or something else entirely. Over the course of this talk, I demonstrate how combining careful archaeological excavation with big-picture computational analysis can help scholars break through this empirical impasse and address how the khipu system as a whole worked, as well as what its signs mean.
 
 <br>
