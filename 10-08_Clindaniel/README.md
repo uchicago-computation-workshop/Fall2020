@@ -20,23 +20,24 @@
 <h2 class=pfblock-header>
   <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-08_Clindaniel> The Inka Writing System: An Exploration of Khipu Sign Conventions </a>
 </h2>
+</div>
 <br>
 **Summary:** Inka khipus were unique pre-Columbian, Andean semiotic technologies that used three-dimensional signs -- primarily knots, cords, and colors -- to record everything from accounting records to historical narratives. While numerical Inka khipu signs have been deciphered since the 1920s, scholars still have not deciphered any non-numerical Inka khipu signs, nor have they empirically demonstrated how such signs would have worked -- whether as the signs of a phonetic writing system, or something else entirely. Over the course of this talk, I demonstrate how combining careful archaeological excavation with big-picture computational analysis can help scholars break through this empirical impasse and address how the khipu system as a whole worked, as well as what its signs mean.
 
 <br>
 
 <h4 class=pfblock-header3> Thursday, 10/08 </h4>
-<h4 class=pfblock-header3> 11:20am-12:40pm </h4>
+<h4 class=pfblock-header3> 11:20 am - 12:40 pm </h4>
 
 <br><br>
 
-**Jon Clindaniel** is an Assistant Instructional Professor in the Masters in Computational Social Science program and a computational anthropologist, focused on solving difficult archaeological problems using data science techniques. Jon's research centers around applying data science techniques to solve difficult anthropological/archaeological problems and he is passionate about teaching these methodologies to students.
+**Jon Clindaniel** is an Assistant Instructional Professor in the Masters in Computational Social Science program and a computational anthropologist, focused on solving difficult archaeological problems using data science techniques. He has worked on archaeological projects around the world in an effort to better understand the human past and is currently focused on deciphering symbols in the Inka khipu sign system using large archaeological databases. 
 
 <br>
 
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJwsdeuhrz4tEtaMuh47QL9m5QrsHiI4cZIV) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 
-This week's suggested readings:
+This week's suggested reading:
 <br>
 <i>The Inka Writing System: An Exploration of Khipu Sign Conventions</i>   (manuscript and codes available upon request)
 
