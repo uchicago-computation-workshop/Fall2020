@@ -50,7 +50,7 @@ for Lower Rates in Larger Urban Areas </a>
 
 This week's suggested readings:
 
-- [Ander J. Stier et al. 2020. 'Rethinking Depression in Cities: Evidence and Theory for Lower Rates in Larger Urban Areas'](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/10-15_Stier_Berman/Stier_etal_DepressionUrban.pdf)
+- [Ander J. Stier et al. 2020. "Rethinking Depression in Cities: Evidence and Theory for Lower Rates in Larger Urban Areas."](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/10-15_Stier_Berman/Stier_etal_DepressionUrban.pdf)
 
 <br>
 
