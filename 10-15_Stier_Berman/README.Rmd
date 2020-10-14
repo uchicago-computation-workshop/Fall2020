@@ -1,0 +1,123 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
+
+date <- "10/15/2020"
+
+quarter <- "Fall2020"
+date <- "10/15"
+week_folder <- "10-15_Stier_Berman"
+
+
+title <- "Rethinking Depression in Cities: Evidence and Theory
+for Lower Rates in Larger Urban Areas"
+
+
+speaker <- "Andrew Stier and Marc Berman"
+department <- "Department of Psychology"
+university <- "University of Chicago"
+github_home <- "https://github.com/uchicago-computation-workshop"
+
+#Update Weekly
+issues_url <- "https://github.com/uchicago-computation-workshop/Spring2020/issues/3"
+zoom_url <- "https://uchicago.zoom.us/meeting/register/tJIpfu-vrjoiHdKMfYQoya5lwe0fD6VUZGyy"
+
+
+#Papers
+
+week_paper_ref0 <- "Ander J. Stier et al. 2020. 'Rethinking Depression in Cities: Evidence and Theory for Lower Rates in Larger Urban Areas'"
+week_paper_file0 <- "Stier_etal_DepressionUrban.pdf"
+
+
+
+#No Need to Edit
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
+
+readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file0,")")
+
+
+
+```
+
+
+
+<br>
+
+<h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
+
+<h1 class=pfblock-header3> `r speaker`</h1>
+<h3 class=pfblock-header3> `r department` </h3>
+<h3 class=pfblock-header3> `r university` </h3>
+
+<br><br>
+
+
+
+<p class=pfblock-header3>The <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
+
+
+
+<br>
+
+<div class=pfblock-header3>
+<h2 class=pfblock-header>
+  <a href=`r week_repo`> `r title` </a>
+</h2>
+
+<br>
+</div>
+
+
+
+<p class=footertext2>
+
+**Summary:** It is commonly assumed that cities are detrimental to mental health. However, the evidence remains inconsistent and, at most, makes the case for differences between rural and urban environments as a whole. Here, we propose a model of depression driven by an individual’s accumulated experience mediated by social networks. The connection between observed systematic variations in socioeconomic networks and built environments with city size provides a link between urbanization and mental health. Surprisingly, this model predicts lower depression rates in larger cities. We confirm this prediction for US cities using three independent datasets. These results are consistent with other behaviors associated with denser socioeconomic networks and suggest that larger cities provide a buffer against depression. This approach introduces a systematic
+framework for conceptualizing and modeling mental health in complex physical and social networks, producing testable predictions for environmental and social determinants of mental health also applicable to other psychopathologies.
+
+
+</p>
+
+<br>
+
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> 11:20am-12:40pm </h4>
+
+<br><br>
+
+<p class=footertext2>
+
+**Andrew J. Stier** is a doctoral student in the Integrative Neuroscience program at the University of Chicago. 
+
+**Marc G. Berman** is an Associate Professor in the Department of Psychology, Co-Director for the Masters in Computational Social Science Program, and Director of the Environmental Neuroscience Lab.
+</p>
+
+<br>
+
+<p class=footertext2>
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+</p>
+
+This week's suggested readings:
+
+- `r readings0`
+
+
+<br>
+
+<br><br>
+
+---
+
+<p class=footertext> The 2020-2021 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:20 a.m. to 12:40 p.m.. All interested faculty and graduate students are welcome.</p>
+
+
+
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
