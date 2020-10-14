@@ -60,4 +60,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2020/issues/3>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-15_Stier_Berman>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/3>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-15_Stier_Berman>workshop's public repository on GitHub.</a></p>
