@@ -17,8 +17,7 @@ date <- "10/15"
 week_folder <- "10-15_Stier_Berman"
 
 
-title <- "Rethinking Depression in Cities: Evidence and Theory
-for Lower Rates in Larger Urban Areas"
+title <- "Rethinking Depression in Cities: Evidence and Theory for Lower Rates in Larger Urban Areas"
 
 
 speaker <- "Andrew Stier and Marc Berman"
@@ -27,13 +26,13 @@ university <- "University of Chicago"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
 #Update Weekly
-issues_url <- "https://github.com/uchicago-computation-workshop/Spring2020/issues/3"
+issues_url <- "https://github.com/uchicago-computation-workshop/Fall2020/issues/3"
 zoom_url <- "https://uchicago.zoom.us/meeting/register/tJIpfu-vrjoiHdKMfYQoya5lwe0fD6VUZGyy"
 
 
 #Papers
 
-week_paper_ref0 <- "Ander J. Stier et al. 2020. 'Rethinking Depression in Cities: Evidence and Theory for Lower Rates in Larger Urban Areas'"
+week_paper_ref0 <- "Andrew J. Stier et al. 2020. 'Rethinking Depression in Cities: Evidence and Theory for Lower Rates in Larger Urban Areas.'"
 week_paper_file0 <- "Stier_etal_DepressionUrban.pdf"
 
 
