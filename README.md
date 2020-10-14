@@ -12,3 +12,16 @@
 ### Oct 8th - [Jon Clindaniel](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-08_Clindaniel)
 
 <div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screenshot%202019-09-23%2010.58.34.png?itok=ULCExQwo" width="238" height="238"></div>
+
+
+
+### Oct 15th - [Andrew Stier and Marc Berman](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-15_Stier_Berman)
+
+<div><img src="https://psychology.uchicago.edu/sites/psychology.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/4083.jpeg?itok=9c_eQIix" width="238" height="238"><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screen%20Shot%202018-06-27%20at%2011.09.43%20AM.png?itok=WqfiFvS_" width="238" height="238"></div>
+
+
+
+
+
+
+
