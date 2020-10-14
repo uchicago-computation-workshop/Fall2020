@@ -22,10 +22,9 @@
 for Lower Rates in Larger Urban Areas </a>
 </h2>
 <br>
-
-<p class=footertext2>
 **Summary:** It is commonly assumed that cities are detrimental to mental health. However, the evidence remains inconsistent and, at most, makes the case for differences between rural and urban environments as a whole. Here, we propose a model of depression driven by an individual’s accumulated experience mediated by social networks. The connection between observed systematic variations in socioeconomic networks and built environments with city size provides a link between urbanization and mental health. Surprisingly, this model predicts lower depression rates in larger cities. We confirm this prediction for US cities using three independent datasets. These results are consistent with other behaviors associated with denser socioeconomic networks and suggest that larger cities provide a buffer against depression. This approach introduces a systematic
 framework for conceptualizing and modeling mental health in complex physical and social networks, producing testable predictions for environmental and social determinants of mental health also applicable to other psychopathologies.
+
 
 <br>
 
