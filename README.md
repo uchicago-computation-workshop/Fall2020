@@ -21,9 +21,9 @@
 
 
 
-### Oct 22nd - [Berk Can Deniz] (https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-22_Can_Deniz)
+### Oct 22nd - [Berk Can Deniz](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-22_Can_Deniz)
 
-<div><img src="https://berkcdeniz.info/" width="238" height="238"></div>
+
 
 
 
