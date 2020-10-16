@@ -1,0 +1,119 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
+
+date <- "10/122/2020"
+
+quarter <- "Fall2020"
+date <- "10/22"
+week_folder <- "10-22_Can_Deniz"
+
+
+title <- "Experimentation and Incrementalism: The Impact of the Adoption of A/B Testing"
+
+
+speaker <- "Berk Can Deniz"
+department <- "Stanford Graduate School of Business, Macro Organizational Behavior"
+university <- "Stanford University"
+github_home <- "https://github.com/uchicago-computation-workshop"
+
+#Update Weekly
+issues_url <- "https://github.com/uchicago-computation-workshop/Fall2020/issues/4"
+zoom_url <- "https://uchicago.zoom.us/meeting/register/tJIpfu-vrjoiHdKMfYQoya5lwe0fD6VUZGyy"
+
+
+#Papers
+
+week_paper_ref0 <- "Berk Can Deniz 2020. 'Experimentation and Incrementalism: The Impact of the Adoption of A/B Testing'"
+week_paper_file0 <- "Deniz_BerkCan_Oct10_AB_Testing.pdf"
+
+
+
+#No Need to Edit
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
+
+readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file0,")")
+
+
+
+```
+
+
+
+<br>
+
+<h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
+
+<h1 class=pfblock-header3> `r speaker`</h1>
+<h3 class=pfblock-header3> `r department` </h3>
+<h3 class=pfblock-header3> `r university` </h3>
+
+<br><br>
+
+
+
+<p class=pfblock-header3>The <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
+
+
+
+<br>
+
+<div class=pfblock-header3>
+<h2 class=pfblock-header>
+  <a href=`r week_repo`> `r title` </a>
+</h2>
+
+<br>
+</div>
+
+
+
+<p class=footertext2>
+
+**Summary:** This paper studies how the adoption of experimentation as a selection method shapes the direction of innovation. The spread of A/B testing, or digital randomized experiments, has made experimentation one of the most common methods organizations use to evaluate and select internally generated ideas. The strength of experimental evidence can be a force for radical innovation. By providing seemingly irrefutable evidence, well-designed and well-executed experiments can disabuse people of their false beliefs and generate breakthrough discoveries. However, I argue that the adoption of experimentation can also result in incrementalism, whereby firms focus on minuscule yet reliable improvements. These divergent outcomes can be explained by the incentives driving the people who design and implement experiments. The incentives of managers in established firms may lead them to use experiments in a way that undermines the pursuit of novelty while encouraging the search for incremental improvements. I investigate the relationship between experimentation and innovation in the context of US newspaper websites and their adoption of A/B testing. Using a historical archive of US newspaper websites and a novel computational method, I find that the adoption of A/B testing decreases the likelihood of radical change and makes websites more likely to change incrementally.
+
+
+</p>
+
+<br>
+
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> 11:20am-12:40pm </h4>
+
+<br><br>
+
+<p class=footertext2>
+
+**Berk Can Deniz** is a fifth-year Ph.D. student at Stanford Graduate School of Business, Macro Organizational Behavior group. His research broadly focuses on the interdependence between different stages of the innovation and learning process and how this shapes the pursuit of novelty. Particularly, he is interested in how different ways of evaluating and selecting novel ideas can shape the direction of innovation.
+</p>
+
+<br>
+
+<p class=footertext2>
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+</p>
+
+This week's suggested readings:
+
+- `r readings0`
+
+
+<br>
+
+<br><br>
+
+---
+
+<p class=footertext> The 2020-2021 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:20 a.m. to 12:40 p.m.. All interested faculty and graduate students are welcome.</p>
+
+
+
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
