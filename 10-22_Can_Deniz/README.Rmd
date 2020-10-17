@@ -26,8 +26,8 @@ university <- "Stanford University"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
 #Update Weekly
-issues_url <- "https://github.com/uchicago-computation-workshop/Fall2020/issues/4"
-zoom_url <- "https://uchicago.zoom.us/meeting/register/tJIpfu-vrjoiHdKMfYQoya5lwe0fD6VUZGyy"
+issues_url <- "https://github.com/uchicago-computation-workshop/Fall2020/issues/5"
+zoom_url <- "https://uchicago.zoom.us/meeting/register/tJAuceGupj0tGtCwYzciJ6V8bpQA0Oh7amGY"
 
 
 #Papers
