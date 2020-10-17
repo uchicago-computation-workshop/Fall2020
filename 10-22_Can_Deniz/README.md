@@ -1,3 +1,17 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
+
+
+<br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
@@ -65,5 +79,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/5>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-15_Stier_Berman>workshop's public repository on GitHub.</a></p>
-
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/5>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-22_Can_Deniz>workshop's public repository on GitHub.</a></p>
