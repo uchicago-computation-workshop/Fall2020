@@ -1,20 +1,4 @@
-<<<<<<< HEAD
----
-output:
-  html_document:
-    highlight: null
-    css: style.css
-    self_contained: no
-    keep_md: true
----
 
-
-
-
-
-<br>
-
-=======
 >>>>>>> 6d396ba9ea587bef5edf03cb6636d4e1b43d5f2c
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
