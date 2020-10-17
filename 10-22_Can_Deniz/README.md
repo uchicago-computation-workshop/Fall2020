@@ -1,5 +1,4 @@
 
->>>>>>> 6d396ba9ea587bef5edf03cb6636d4e1b43d5f2c
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Berk Can Deniz</h1>
