@@ -10,7 +10,7 @@ output:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(stringr)
 
-date <- "10/122/2020"
+date <- "10/22/2020"
 
 quarter <- "Fall2020"
 date <- "10/22"
