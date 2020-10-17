@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 output:
   html_document:
@@ -13,6 +14,8 @@ output:
 
 <br>
 
+=======
+>>>>>>> 6d396ba9ea587bef5edf03cb6636d4e1b43d5f2c
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Berk Can Deniz</h1>
@@ -60,9 +63,8 @@ output:
 
 <br>
 
-<p class=footertext2>
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJIpfu-vrjoiHdKMfYQoya5lwe0fD6VUZGyy) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-</p>
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJAuceGupj0tGtCwYzciJ6V8bpQA0Oh7amGY) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+
 
 This week's suggested readings:
 
