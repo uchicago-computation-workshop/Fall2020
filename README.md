@@ -23,7 +23,7 @@
 
 ### Oct 22nd - [Berk Can Deniz](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-22_Can_Deniz)
 
-<div><img width="238" height="238"></div>
+<div><img src = "https://www.gsb.stanford.edu/sites/default/files/styles/270x270/public/6111422_denizberk_can_kazfd_photo_0.jpg?itok=tZhd9gBM" width="238" height="238"></div>
 
 
 

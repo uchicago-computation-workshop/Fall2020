@@ -1,4 +1,3 @@
-
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Berk Can Deniz</h1>
@@ -46,9 +45,8 @@
 
 <br>
 
-<p class=footertext2>
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJIpfu-vrjoiHdKMfYQoya5lwe0fD6VUZGyy) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-</p>
+
 
 This week's suggested readings:
 
@@ -65,5 +63,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/5>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-15_Stier_Berman>workshop's public repository on GitHub.</a></p>
-
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/4>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-22_Can_Deniz>workshop's public repository on GitHub.</a></p>
