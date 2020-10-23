@@ -27,7 +27,7 @@ github_home <- "https://github.com/uchicago-computation-workshop"
 
 #Update Weekly
 issues_url <- "https://github.com/uchicago-computation-workshop/Fall2020/issues/6"
-zoom_url <- " https://uchicago.zoom.us/meeting/register/tJAkfuyhpzsuGtRDQfQs868j_o2tO2vBOKuk"
+zoom_url <- "https://uchicago.zoom.us/meeting/register/tJAkfuyhpzsuGtRDQfQs868j_o2tO2vBOKuk"
 
 
 #Papers
