@@ -97,6 +97,7 @@ readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computat
 <br>
 
 <p class=footertext2>
+
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 </p>
 

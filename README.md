@@ -28,7 +28,7 @@
 
 ### Oct 29th - [Nicole B. Ellison](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-29_Ellison)
 
-<div><img src = "https://www.si.umich.edu/sites/default/files/styles/profile_image/public/profiles/ellison_nicole_5x7.jpg?itok=7oiUdIqV" width="238" height="238"></div>
+<div><img src = "http://www-personal.umich.edu/~enicole/photo.jpg" width="238" height="238"></div>
 
 
 
