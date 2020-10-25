@@ -1,3 +1,16 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
+
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -46,7 +59,10 @@
 
 <br>
 
+<p class=footertext2>
+
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJAkfuyhpzsuGtRDQfQs868j_o2tO2vBOKuk) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+</p>
 
 This week's suggested readings:
 
