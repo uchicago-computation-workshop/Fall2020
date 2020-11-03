@@ -17,7 +17,7 @@ date <- "11/5"
 week_folder <- "11-5_Gopnik"
 
 
-title <- "Children as a solution to explore-exploit tensions'"
+title <- "Children as a solution to explore-exploit tensions"
 
 
 speaker <- "Alison Gopnik"

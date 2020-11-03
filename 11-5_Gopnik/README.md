@@ -1,3 +1,5 @@
+
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -18,7 +20,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-5_Gopnik> Children as a solution to explore-exploit tensions' </a>
+  <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-5_Gopnik> Children as a solution to explore-exploit tensions </a>
 </h2>
 
 <br>
