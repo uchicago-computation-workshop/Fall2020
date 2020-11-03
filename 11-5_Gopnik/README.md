@@ -58,7 +58,7 @@ She is the author or coauthor of over 120 journal articles and several books inc
 
 This week's suggested readings:
 
-- [Gopnik A. 2020. 'Childhood as a solution to explore-exploit tensions.' Phil. Trans. R. Soc. B 375: 20190502. http://dx.doi.org/10.1098/rstb.2019.0502](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-5_Gopnik/Gopnik Phil Trans 2020.pdf)
+- [Gopnik 2020. 'Childhood as a solution to explore-exploit tensions' Phil. Trans. R. Soc, B 375: 20190502'](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-5_Gopnik/Gopnik Phil Trans 2020.pdf)
 
 
 <br>

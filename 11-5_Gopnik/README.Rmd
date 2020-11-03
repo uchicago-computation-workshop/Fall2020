@@ -32,7 +32,7 @@ zoom_url <- "https://uchicago.zoom.us/meeting/register/tJYlf-GtrDsqGd11-iN0x3Ena
 
 #Papers
 
-week_paper_ref0 <- "Gopnik A. 2020. 'Childhood as a solution to explore-exploit tensions.' Phil. Trans. R. Soc. B 375: 20190502. http://dx.doi.org/10.1098/rstb.2019.0502"
+week_paper_ref0 <- "Gopnik 2020. 'Childhood as a solution to explore-exploit tensions' Phil. Trans. R. Soc, B 375: 20190502'"
 week_paper_file0 <- "Gopnik Phil Trans 2020.pdf"
 
 
