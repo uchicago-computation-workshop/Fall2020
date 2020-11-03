@@ -30,9 +30,11 @@
 
 <div><img src = "http://www-personal.umich.edu/~enicole/photo.jpg" width="200" height="280"></div>
 
+
 ### Nov 5th - [Alison Gopnik](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-5_Gopnik)
 
 <div><img src = "file:///Users/elizabethhuppert/Library/Containers/com.apple.mail/Data/Library/Mail%20Downloads/3A974454-65E4-4F46-B87E-D577010E4ADF/Attie%20and%20Me%20Tight%20Square%20with%20Credit%20Final.jpeg" width="200" height="280"></div>
+
 
 ## Checking Your GitHub Participation (For MACSS Students) 
 
