@@ -33,7 +33,7 @@
 
 ### Nov 5th - [Alison Gopnik](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-5_Gopnik)
 
-<div><img src = "https://raw.githubusercontent.com/uchicago-computation-workshop/Fall2020/master/11-5_Gopnik/Gopnik.jpg" width="200" height="280"></div>
+<div><img src = "https://raw.githubusercontent.com/uchicago-computation-workshop/Fall2020/master/11-5_Gopnik/Gopnik.jpg" width="280" height="280"></div>
 
 
 ## Checking Your GitHub Participation (For MACSS Students) 
