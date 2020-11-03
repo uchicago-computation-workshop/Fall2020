@@ -1,11 +1,10 @@
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Nicole B. Ellison</h1>
-<h3 class=pfblock-header3> School of Information </h3>
-<h3 class=pfblock-header3> University of Michigan </h3>
+<h1 class=pfblock-header3> Alison Gopnik</h1>
+<h3 class=pfblock-header3> Department of Psychology </h3>
+<h3 class=pfblock-header3> University of California at Berkeley </h3>
 
 <br><br>
 
@@ -19,7 +18,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-29_Ellison> Why We Don't Click: Interrogating the Relationship Between Viewing and Clicking in Social Media Contexts by Exploring the 'Non-Click' </a>
+  <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-5_Gopnik> Children as a solution to explore-exploit tensions' </a>
 </h2>
 
 <br>
@@ -29,32 +28,35 @@
 
 <p class=footertext2>
 
-**Summary:** Motivated by work that characterizes view-based social media practices as “passive use,” contrasting it with more desirable, interactive “active use,” this study explores how social media users understand their viewing and clicking practices and the empirical relationship between them. Employing a combination of eye tracking, survey, and interview methods, our study (N = 42) investigates the non-click—instances where people intentionally and thoughtfully do not click on content they spend time viewing. Counterintuitively, we find no difference in viewing duration to clicked versus non-clicked Facebook content. We find that use motivations and Facebook feed content are significant predictors of click behavior but measures of overall use, such as network size or minutes of use per day, are not. Our interview data reveal three audience-related concerns that contribute to deliberate non-clicking and illustrate how non-clicked content contributes to social connectedness when imported into other channels. We discuss implications for researchers, users, and designers.
+**Summary:** Despite recent progress, the most sophisticated computers using the latest machine learning techniques are still extremely limited compared to every human child. 18-month-olds develop highly abstract structured “common sense” causal representations of objects, places, and people that support a wide range of inferences. Moreover, human children are impressive learners, and unlike most current machine learning systems, learn from small amounts of data, with no explicit supervision, and with little obvious reward. In fact some evidence suggests that children are bettter and more curious learners than adults, an indication that they may be designed to resolve the explore-exploit trade-off.. I propose a constructivist approach to the development of common sense, combining prior knowledge and learning. Assumptions about everyday physics, psychology, causality etc. provide a starting point. But learning methods involving exploration, social learning and model-building, allow commonsense to emerge. We are working to formalize and implement these learning methods and show how they operate on prior knowledge to construct common sense, and exploring these learning methods through experiments putting children and AIs in the same virtual environments.
 
 </p>
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 10/29 </h4>
+<h4 class=pfblock-header3> Thursday, 11/5 </h4>
 <h4 class=pfblock-header3> 11:20am-12:40pm </h4>
 
 <br><br>
 
 <p class=footertext2>
 
-**Nicole B. Ellison** is the Karl E. Weick Collegiate Professor of Information in the School of Information at the University of Michigan.  Nicole's research has explored social and interpersonal aspects of online technologies and computer-mediated communication, including research on self-presentational strategies used by online dating participants; the role of social media in reshaping college access patterns for low-income and first-generation college students; and the ways in which users employ the communication affordances of Facebook to receive and give social and informational support to members of their network. This research has been funded by the National Science Foundation, the Bill & Melinda Gates Foundation, and the National Academies of Science. 
+**Alison Gopnik** is a professor of psychology and affiliate professor of philosophy at the University of California at Berkeley. She received her BA from McGill University and her PhD. from Oxford University. She is an internationally recognized leader in the study of cognitive science and of children’s learning and development and was one of the founders of the field of “theory of mind”, an originator of the “theory theory” of children’s development and introduced the idea that probabilistic models and Bayesian inference could be applied to children’s learning. She has held a Center for Advanced Studies in the Behavioral Sciences Fellowship, the Moore Distinguished Scholar Fellowship at the California Institute of Technology, the All Souls College Distinguished Visiting Fellowship at Oxford, the King’s College Distinguished Visiting Fellowship at Cambridge. She is an elected member of the Society of Experimental Psychologists and the American Academy of Arts and Sciences and a Cognitive Science Society, American Association for the Advancement of Science, and Guggenheim Fellow. She has been continuously supported by the NSF.
+
+She is the author or coauthor of over 120 journal articles and several books including “Words, thoughts and theories” MIT Press, 1997, and the bestselling and critically acclaimed popular books  “The Scientist in the Crib” William Morrow, 1999, “The Philosophical Baby; What children’s minds tell us about love, truth and the meaning of life”, and “The Gardener and the Carpenter”, Farrar, Strauss and Giroux, the latter two won the Cognitive Development Society Best Book Prize in 2009 and 2016. She has also written widely about cognitive science and psychology for The New York Times, The Atlantic, The New Yorker, Science, Scientific American, The Times Literary Supplement, The New York Review of Books, New Scientist and Slate, among others. Her TED talk on her work has been viewed more than 4.6 million times. And she has frequently appeared on TV and radio including “The Charlie Rose Show”, “The Colbert Report”, “Radio Lab” and “The Ezra Klein Show”. Since 2013 she has written the Mind and Matter column for the Wall Street Journal. She lives in Berkeley with her husband Alvy Ray Smith, and has three children and four grandchildren.
+
 </p>
 
 <br>
 
 <p class=footertext2>
 
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJAkfuyhpzsuGtRDQfQs868j_o2tO2vBOKuk) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJYlf-GtrDsqGd11-iN0x3EnaNGm0Jhuk2nC) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 </p>
 
 This week's suggested readings:
 
-- [Ellison, Trieu, Schoenebeck, Brewer, & Israni 2020. 'Why We Don't Click: Interrogating the Relationship Between Viewing and Clicking in Social Media Contexts by Exploring the 'Non-Click''](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/10-29_Ellison/ellison_2020.pdf)
+- [Gopnik A. 2020. 'Childhood as a solution to explore-exploit tensions.' Phil. Trans. R. Soc. B 375: 20190502. http://dx.doi.org/10.1098/rstb.2019.0502](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-5_Gopnik/Gopnik Phil Trans 2020.pdf)
 
 
 <br>
@@ -67,4 +69,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/6>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/10-29_Ellison>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/7>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-5_Gopnik>workshop's public repository on GitHub.</a></p>
