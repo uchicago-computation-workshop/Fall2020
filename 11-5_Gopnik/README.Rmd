@@ -10,30 +10,30 @@ output:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(stringr)
 
-date <- "11/12/2020"
+date <- "11/5/2020"
 
 quarter <- "Fall2020"
-date <- "11/12"
-week_folder <- "11-12_Luetgert"
+date <- "11/5"
+week_folder <- "11-5_Gopnik"
 
 
-title <- "Clustering Countries-Improving Measurement in Comparative Political Research"
+title <- "Children as a solution to explore-exploit tensions"
 
 
-speaker <- "Brooke Luetgert"
-department <- "Research and Computing Center"
-university <- "University of Chicago"
+speaker <- "Alison Gopnik"
+department <- "Department of Psychology"
+university <- "University of California at Berkeley"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
 #Update Weekly
-issues_url <- "https://github.com/uchicago-computation-workshop/Fall2020/issues/8"
-zoom_url <- "https://uchicago.zoom.us/meeting/register/tJ0kduyqpjMuGtz03nDK2KMi39ig-QF3iQr9"
+issues_url <- "https://github.com/uchicago-computation-workshop/Fall2020/issues/7"
+zoom_url <- "https://uchicago.zoom.us/meeting/register/tJYlf-GtrDsqGd11-iN0x3EnaNGm0Jhuk2nC"
 
 
 #Papers
 
-week_paper_ref0 <- ""
-week_paper_file0 <- ""
+week_paper_ref0 <- "Gopnik 2020. 'Childhood as a solution to explore-exploit tensions' Phil. Trans. R. Soc, B 375: 20190502"
+week_paper_file0 <- "Gopnik_Phil_Trans_2020.pdf"
 
 
 
@@ -78,7 +78,7 @@ readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computat
 
 <p class=footertext2>
 
-**Summary:** Global development indicators are widely used to estimate the macroeconomic and institutional stability of a country. However, as the number of different indicators continues to expand, it has become difficult to interpret this high dimensional data as a whole. Identifying overall trends and assessing how indicators are related to each other can be further obscured by qualitative indices of broad concepts such as democratic stability. While these data continue to increase in dimensionality, empirical research often struggles to explain complex and nuanced societal change from a comparative perspective. Classic approaches to comparative democratic research frequently opt for additive indices like Polity IV, or level measures such as GDP; however, individual indicators often suffer from limited temporal variance. As social scientists, our theoretical work is more advanced than our indicators. The goal of this study is to better understand how we can measure variation across countries with regard to their social and economic division. Employing dimension reduction and subsequent clustering to the vast pool of indicators currently available, the aim is to derive a richer means of describing countries in their development over time. The implications of this explorative, data driven approach are promising: As we better understand the underlying structure of our country level data, we move toward building more effective, objective socio- economic measures and even predictive social science research.
+**Summary:** Despite recent progress, the most sophisticated computers using the latest machine learning techniques are still extremely limited compared to every human child. 18-month-olds develop highly abstract structured “common sense” causal representations of objects, places, and people that support a wide range of inferences. Moreover, human children are impressive learners, and unlike most current machine learning systems, learn from small amounts of data, with no explicit supervision, and with little obvious reward. In fact some evidence suggests that children are bettter and more curious learners than adults, an indication that they may be designed to resolve the explore-exploit trade-off.. I propose a constructivist approach to the development of common sense, combining prior knowledge and learning. Assumptions about everyday physics, psychology, causality etc. provide a starting point. But learning methods involving exploration, social learning and model-building, allow commonsense to emerge. We are working to formalize and implement these learning methods and show how they operate on prior knowledge to construct common sense, and exploring these learning methods through experiments putting children and AIs in the same virtual environments.
 
 </p>
 
@@ -91,7 +91,9 @@ readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computat
 
 <p class=footertext2>
 
-**Brooke Luetgert** is a Computational Scientist for the Social Sciences Division and Lecturer in the Digital Studies program at the University of Chicago. Prior to joining the RCC, she was an Assistant Professor of Political Science and Research Methodology at Sabanci University in Istanbul, Turkey. She has several distinguished publications on legislative compliance, European Union politics and public opinion formation. Her work on mixing methodological approaches to measure EU compliance received post- doctoral funding through the EU CORDIS Marie Curie program as well as a generous grant from Land Baden-Württemburg, Germany. Her current work employs machine learning and interactive data visualization to identify democratic backsliding and fractionalization in a comparative perspective. Brooke lives on a farm with her husband, three amazing kids and menagerie. Together, they also run a thriving children’s center for competitive robotics and computer coding in Batavia, IL.
+**Alison Gopnik** is a professor of psychology and affiliate professor of philosophy at the University of California at Berkeley. She received her BA from McGill University and her PhD. from Oxford University. She is an internationally recognized leader in the study of cognitive science and of children’s learning and development and was one of the founders of the field of “theory of mind”, an originator of the “theory theory” of children’s development and introduced the idea that probabilistic models and Bayesian inference could be applied to children’s learning. She has held a Center for Advanced Studies in the Behavioral Sciences Fellowship, the Moore Distinguished Scholar Fellowship at the California Institute of Technology, the All Souls College Distinguished Visiting Fellowship at Oxford, the King’s College Distinguished Visiting Fellowship at Cambridge. She is an elected member of the Society of Experimental Psychologists and the American Academy of Arts and Sciences and a Cognitive Science Society, American Association for the Advancement of Science, and Guggenheim Fellow. She has been continuously supported by the NSF.
+
+She is the author or coauthor of over 120 journal articles and several books including “Words, thoughts and theories” MIT Press, 1997, and the bestselling and critically acclaimed popular books  “The Scientist in the Crib” William Morrow, 1999, “The Philosophical Baby; What children’s minds tell us about love, truth and the meaning of life”, and “The Gardener and the Carpenter”, Farrar, Strauss and Giroux, the latter two won the Cognitive Development Society Best Book Prize in 2009 and 2016. She has also written widely about cognitive science and psychology for The New York Times, The Atlantic, The New Yorker, Science, Scientific American, The Times Literary Supplement, The New York Review of Books, New Scientist and Slate, among others. Her TED talk on her work has been viewed more than 4.6 million times. And she has frequently appeared on TV and radio including “The Charlie Rose Show”, “The Colbert Report”, “Radio Lab” and “The Ezra Klein Show”. Since 2013 she has written the Mind and Matter column for the Wall Street Journal. She lives in Berkeley with her husband Alvy Ray Smith, and has three children and four grandchildren.
 
 </p>
 
