@@ -35,6 +35,10 @@
 
 <div><img src = "https://raw.githubusercontent.com/uchicago-computation-workshop/Fall2020/master/11-5_Gopnik/Gopnik.jpg" width="280" height="280"></div>
 
+### Nov 12th - [Brooke Luetgert](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-12_Luetgert)
+
+<div><img src = "" width="280" height="280"></div>
+
 
 ## Checking Your GitHub Participation (For MACSS Students) 
 
