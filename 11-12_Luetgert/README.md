@@ -1,5 +1,4 @@
 
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -56,7 +55,7 @@
 
 This week's suggested readings:
 
-- [](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-12_Luetgert/)
+- [Luetgert, 2020. 'Clustering Countries-Improving Measurement in Comparative Political Research'](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-12_Luetgert/Luetgert_CountryClusters_1120.pdf)
 
 
 <br>
