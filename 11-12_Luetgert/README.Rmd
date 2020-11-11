@@ -32,8 +32,8 @@ zoom_url <- "https://uchicago.zoom.us/meeting/register/tJ0kduyqpjMuGtz03nDK2KMi3
 
 #Papers
 
-week_paper_ref0 <- "" 
-week_paper_file0 <- "" 
+week_paper_ref0 <- "Luetgert, 2020.'Clustering Countries-Improving Measurement in Comaprative Political Research'" 
+week_paper_file0 <- "Luetgert_CountryClusters_1120.pdf" 
 
 
 
