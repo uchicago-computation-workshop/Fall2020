@@ -1,6 +1,5 @@
 
 
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>

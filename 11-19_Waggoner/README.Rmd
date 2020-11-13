@@ -47,7 +47,6 @@ readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computat
 readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
 
 
-
 ```
 
 
