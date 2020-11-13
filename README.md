@@ -39,6 +39,9 @@
 
 <div><img src = "https://raw.githubusercontent.com/uchicago-computation-workshop/Fall2020/master/11-12_Luetgert/bluetgert.jpg" width="200" height="280"></div>
 
+### Nov 19th - [Philip Waggoner](https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-19_Waggoner)
+
+<div><img src = "https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/waggoner.jpg?itok=1BHcxs8m" width="280" height="280"></div>
 
 ## Checking Your GitHub Participation (For MACSS Students) 
 
