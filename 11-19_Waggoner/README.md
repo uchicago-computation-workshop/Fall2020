@@ -58,6 +58,7 @@
 This week's suggested readings:
 
 - [Waggoner, 2020. 'Pandemic Policymaking: Learning the Lower Dimensional Manifold of Congressional Responsiveness'](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-19_Waggoner/waggoner_pandemic.pdf)
+- [Waggoner, 2020. 'A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COIVD-19'](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-19_Waggoner/waggoner_final CCSE manuscript.pdf)
 
 
 <br>
