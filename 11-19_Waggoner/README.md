@@ -1,10 +1,22 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
+
 
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Brooke Luetgert</h1>
-<h3 class=pfblock-header3> Research and Computing Center </h3>
+<h1 class=pfblock-header3> Philip Waggoner</h1>
+<h3 class=pfblock-header3> Computational Social Science </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
 <br><br>
@@ -19,7 +31,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-12_Luetgert> Clustering Countries-Improving Measurement in Comparative Political Research </a>
+  <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-19_Waggoner> Pandemic Policymaking </a>
 </h2>
 
 <br>
@@ -29,20 +41,20 @@
 
 <p class=footertext2>
 
-**Summary:** Global development indicators are widely used to estimate the macroeconomic and institutional stability of a country. However, as the number of different indicators continues to expand, it has become difficult to interpret this high dimensional data as a whole. Identifying overall trends and assessing how indicators are related to each other can be further obscured by qualitative indices of broad concepts such as democratic stability. While these data continue to increase in dimensionality, empirical research often struggles to explain complex and nuanced societal change from a comparative perspective. Classic approaches to comparative democratic research frequently opt for additive indices like Polity IV, or level measures such as GDP; however, individual indicators often suffer from limited temporal variance. As social scientists, our theoretical work is more advanced than our indicators. The goal of this study is to better understand how we can measure variation across countries with regard to their social and economic division. Employing dimension reduction and subsequent clustering to the vast pool of indicators currently available, the aim is to derive a richer means of describing countries in their development over time. The implications of this explorative, data driven approach are promising: As we better understand the underlying structure of our country level data, we move toward building more effective, objective socio- economic measures and even predictive social science research.
+**Summary:** Are we witnessing a unique period of Congressional policymaking, or is this era of policymaking in response to COVID-19 in line with the current hyperpolarization, political division, and ineffective governance that defines much of policymaking? To answer this question, we need to place COVID-19 policymaking into historical context. In this talk, I develop an exploratory framework based on a suite of computational methods and an original dataset of text and non-text data on all epidemic- and pandemic-related legislation from 1973 - 2020. Results suggest that though institutional patterns of policymaking are strikingly uniform overtime (suggesting we are not in a unique period of policymaking), the overall tone of the policymaking apparatus in this space has become increasingly intense, and overtly negative in the current era (suggesting we are in a unique period of policymaking). In sum, and to make sense of these patterns, this suggests a few things: first, "uniqueness" is a multidimensional concept that must be treated accordingly; second, though somewhat hopeful to observe uniformity in the institutional procedure for formally responding to such large-scale crises, the process for deriving governmental responses is becoming increasingly, and perhaps unnecessarily, intense and negative; and finally, dependent on where we look for evidence will determine whether and what we find. For example, we find evidence of uniqueness in the "how" of policymaking when looking to bill text, yet we find no evidence of uniqueness when we look to the institutional contours that defined paths policies take in the chamber. As a result, several avenues open up for future related work.
 
 </p>
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 11/12 </h4>
+<h4 class=pfblock-header3> Thursday, 11/19 </h4>
 <h4 class=pfblock-header3> 11:20am-12:40pm </h4>
 
 <br><br>
 
 <p class=footertext2>
 
-**Brooke Luetgert** is a Computational Scientist for the Social Sciences Division and Lecturer in the Digital Studies program at the University of Chicago. Prior to joining the RCC, she was an Assistant Professor of Political Science and Research Methodology at Sabanci University in Istanbul, Turkey. She has several distinguished publications on legislative compliance, European Union politics and public opinion formation. Her work on mixing methodological approaches to measure EU compliance received post- doctoral funding through the EU CORDIS Marie Curie program as well as a generous grant from Land Baden-Württemburg, Germany. Her current work employs machine learning and interactive data visualization to identify democratic backsliding and fractionalization in a comparative perspective. Brooke lives on a farm with her husband, three amazing kids and menagerie. Together, they also run a thriving children’s center for competitive robotics and computer coding in Batavia, IL.
+**Philip Waggoner** is an Assistant Instructional Professor in the Masters in the Computational Social Science program and a political scientist applying experimental, statistical, and computational techniques to explore a variety of social science behavior. His research has appeared in numerous political science, statistics, and software outlets, and has received generous financial support from several funders. His teaching interests include American political decision- making, machine learning, applied statistics, and statistical computing. He earned his PhD in political science from the University of Houston.
 
 </p>
 
@@ -50,12 +62,12 @@
 
 <p class=footertext2>
 
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJ0kduyqpjMuGtz03nDK2KMi39ig-QF3iQr9) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJIpc-GsqTooGdUVM-OJcsnUQIWQxu1jUQJG) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 </p>
 
 This week's suggested readings:
 
-- [Luetgert, 2020. 'Clustering Countries-Improving Measurement in Comparative Political Research'](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-12_Luetgert/Luetgert_CountryClusters_1120.pdf)
+- [Waggoner, 2020. 'A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COIVD-19'](https://github.com/uchicago-computation-workshop/Fall2020/blob/master/11-19_Waggoner/waggoner_final CCSE manuscript.pdf)
 
 
 <br>
@@ -69,4 +81,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/8>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-12_Luetgert>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2020/issues/9>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2020/tree/master/11-19_Waggoner>workshop's public repository on GitHub.</a></p>
