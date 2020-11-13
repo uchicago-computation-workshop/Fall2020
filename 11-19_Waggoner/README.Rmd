@@ -35,8 +35,8 @@ zoom_url <- "https://uchicago.zoom.us/meeting/register/tJIpc-GsqTooGdUVM-OJcsnUQ
 week_paper_ref0 <- "Waggoner, 2020. 'Pandemic Policymaking: Learning the Lower Dimensional Manifold of Congressional Responsiveness'"
 week_paper_file0 <- "waggoner_pandemic.pdf"
 
-week_paper_ref0 <- "Waggoner, 2020. 'A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COIVD-19'" 
-week_paper_file0 <- "waggoner_final CCSE manuscript.pdf"
+week_paper_ref1 <- "Waggoner, 2020. 'A Computational Exploration of the Evolution of Governmental Policy Responses to Epidemics Before and During the Era of COIVD-19'" 
+week_paper_file1 <- "waggoner_final CCSE manuscript.pdf"
 
 
 
@@ -44,6 +44,7 @@ week_paper_file0 <- "waggoner_final CCSE manuscript.pdf"
 week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
 
 readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file0,")")
+readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
 
 
 
