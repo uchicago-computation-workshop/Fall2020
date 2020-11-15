@@ -49,10 +49,21 @@ To check your GitHub participation record, you may either
 
 1. run "python MyGithubParticipation.py [your GitHub username] [your password]" (without the brackets) OR
 
-2. edit MyGithubParticipation.py, put your GitHub access token inside the quotation marks on line 37 and run "python MyGithubParticipation.py [your GitHub username]" 
+2. edit MyGithubParticipation.py, put your GitHub access token inside the quotation marks on line 33 and run "python MyGithubParticipation.py [your GitHub username]" 
 
 as a Unix command. 
 
 Please note that GitHub will disable password authentication on Nov 13, and presumably option 1 will stop working after the date (see https://developer.github.com/changes/2020-02-14-deprecating-password-auth/). For information about how to obtain a GitHub access token, visit https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token. 
 
-The script will return your GitHub participation records up to week 5. You may edit the script a little bit by including future workshop dates and issue page numbers on line 26 and 37, and then you will be able to retrieve your records of the remaining weeks as well. It will take a while for the script to retrieve all of your records. Running the script on Windows might be a little bit tricky. 
+<del>The script will return your GitHub participation records up to week 5. You may edit the script a little bit by including future workshop dates and issue page numbers on line 26 and 37, and then you will be able to retrieve your records of the remaining weeks as well. It will take a while for the script to retrieve all of your records. Running the script on Windows might be a little bit tricky. </del>
+
+###### Nov 15 Update
+
+The python script is updated and will be able to check all of your participation records in this quarter. Please note that GitHub may have already deprecated password authentication, and option 1 may no longer work. The safest way to retrieve your record is through a token authentication. You should put your token inside the quotation marks on line 33. 
+
+Here is a screenshot of how it prints on my screen.
+
+<div><img src = "screenshot.png" width="1074" height="159"></div>
+
+
+

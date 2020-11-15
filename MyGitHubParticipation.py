@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[184]:
-
-
 import requests
 import pandas as pd
 import dateutil
@@ -27,13 +18,18 @@ dates = [(10,9),
          (10,8),
          (10,15),
          (10,22),
-         (10,29)]
+         (10,29),
+         (11, 5),
+         (11, 12),
+         (11, 19)]
 
 # The following list should contain the issue ids of all the weeks. 
-issue_ids = [1,2,3,5,6]
+issue_ids = [1,2,3,5,6,7,8,9]
+
 issues = "uchicago-computation-workshop/Fall2020/issues/"
 current_github_accept = "application/vnd.github.squirrel-girl-preview+json"
-#Put your GitHub access token here below inside the quotation marks. 
+
+# Put your GitHub access token here.
 token = ''
 
 
@@ -85,7 +81,7 @@ def get_weekly_count(week, auth = [], token = token):
         comments_df = pd.DataFrame(comments)
         comments_df['created_at_datetime'] = comments_df['created_at'].apply(lambda x: dateutil.parser.parse(x))
         m, d = dates[week-1]
-        date = datetime.datetime(2020,10,1)
+        date = datetime.datetime(2020,m,d)
         timezone = pytz.timezone("America/Chicago")
         d_aware = timezone.localize(date)
         comment_deadline = datetime.datetime(2020,m,d,0, tzinfo = d_aware.tzinfo)
@@ -103,9 +99,6 @@ def get_weekly_count(week, auth = [], token = token):
         github_df.iloc[:,1] = pd.Series(reactions_count)
         empty = False
     return(github_df, empty)
-
-
-# In[ ]:
 
 
 if __name__=="__main__":  
